@@ -33,7 +33,7 @@
          }
       }
    },
-   "id": "/providers/Microsoft.Authorization/policyDefinitions/2a0e14a6-b0a6-4fab-991a-187a4f81c498",
+   "id": "/providers/Microsoft.Authorization/policyDefinitions/59662e41-152c-4b24-8f13-fd86d183a13b",
    "type": "Microsoft.Authorization/policyDefinitions",
-   "name": "2a0e14a6-b0a6-4fab-991a-187a4f81c498"
+   "name": "59662e41-152c-4b24-8f13-fd86d183a13b"
 }
